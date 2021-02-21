@@ -1,0 +1,92 @@
+[
+    {
+            "id": 1,
+           "question": "Which is the only mammal that can’t jump?",
+           "optionA": "Dog",
+           "optionB": "Elephant",
+           "optionC": "Goat",
+           "optionD": "Lion",
+           "answer": "Elephant"
+       },
+       {
+        "id": 2,
+        "question": "Which is the tallest animal?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Giraffe",
+        "optionD": "Lion",
+        "answer": "Giraffe"
+    },
+    {
+        "id": 3,
+        "question": "Which is the biggest mammal?",
+        "optionA": "Blue Whale",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Blue Whale"
+    },
+    {
+        "id": 4,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "id": 5,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "id": 6,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "id": 7,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "id": 8,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "id": 9,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "id": 10,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    }
+   ]
